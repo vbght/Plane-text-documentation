@@ -1,0 +1,45 @@
+
+\documentclass[a4paper, 11pt]{article}
+
+\usepackage{fullpage} 
+\usepackage{fullpage}  
+\usepackage[english]{babel}  
+\usepackage[utf8]{inputenc}  
+\usepackage{amsmath}  
+\usepackage{graphicx}  
+\usepackage[colorinlistoftodos]{todonotes}  
+\usepackage{array} 
+\usepackage{longtable}
+
+\begin{document}
+\author{Author} 
+
+\noindent
+\large\textbf{Makoto Kaneko} \hfill \textbf{EE-393 Technical Writing} \\
+\normalsize Section AB \hfill Professor Bade \\
+Lab Date: 04/29/2016 \hfill  \\
+
+
+\begin{center}
+\section*{Maths, Age 3-5 Apps}
+\end{center}
+ 
+
+\section*{Problem Statement}
+Many children in Africa do not have the opportunity to study basics of mathematics at early ages. It’s very important for kids to take appropriate education since they are young. In fact, there are some organizations working on improvement of educational environment in Africa, by dispatching teachers. But there is a big issue, which is they lack number of teachers who can work in those countries. However, children can study mathematics by themselves with this application. 
+
+\section*{Solution}
+Our carefully structured maths apps are packed with colourful and engaging activities. Designed to teach and give practice in core maths concepts, for the early years of school. Localised into many different languages, our maths apps are already a hit with children and parents all over the world.
+
+\section*{Product Specifications}
+Academic studies by the University of Nottingham have shown children advancing their maths ability by 18 months in just 6 weeks of using 'Maths, age 3-5'. Give your child a headstart with hundreds of structured, engaging activities. The first maths app in our series, it is already a hit with children and parents all over the world.
+\begin{center}
+\includegraphics[scale=0.7]{MATH3-5.pdf}
+\end{center}
+
+\section*{Conclusion (Why should you be rewarded)}
+
+In conclusion, there are also applications for other subjects, similar to this application. In other words, children can cover all the subjects they need to study, just with one tablet, which is far effective and economical than dispatching teachers to each country.
+
+
+\end{document}
